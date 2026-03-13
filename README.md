@@ -78,5 +78,5 @@ This repository will be continuously updated as I progress in learning Linux and
 
 ## Connect With Me
 
-GitHub:   
+GitHub: https://github.com/shariquafarooque-sha  
 LinkedIn: linkedin.com/in/shariqua-patel-28464a263
