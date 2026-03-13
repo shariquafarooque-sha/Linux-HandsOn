@@ -1,61 +1,46 @@
-##Linux Hands-On for DevOps##
-##Overview##
+# Linux Hands-On for DevOps
 
-This repository contains my hands-on Linux learning and practical exercises as part of my DevOps and Cloud engineering journey.
+## Overview
+This repository documents my hands-on learning and practice of Linux as part of my DevOps and Cloud computing journey.
 
-Linux is a core technology used in modern infrastructure, cloud platforms, and DevOps environments. Most cloud services and container platforms such as Amazon Web Services, Docker, and Kubernetes run primarily on Linux systems.
+Linux is a fundamental technology used in modern infrastructure and DevOps environments. Most cloud platforms such as Amazon Web Services and container technologies like Docker and orchestration platforms such as Kubernetes run primarily on Linux systems.
 
-The goal of this repository is to build a strong foundation in Linux system administration and command-line usage, which are essential skills for DevOps engineers.
+The purpose of this repository is to build a strong foundation in Linux system administration, command-line usage, automation, and troubleshooting which are essential skills for DevOps engineers.
 
-##Learning Objectives
+---
+
+## Learning Objectives
 
 Through this repository I am practicing and documenting:
 
-Linux command line usage
+- Linux command line usage
+- File and directory management
+- File permissions and ownership
+- User and group management
+- Package management
+- Process monitoring
+- Networking troubleshooting
+- Shell scripting with Bash
+- Task automation using cron jobs
 
-File and directory management
+---
 
-User and group management
+## Topics Covered
 
-File permissions and ownership
+1. Linux Fundamentals
+2. File and Directory Commands
+3. File Permissions and Ownership
+4. User and Group Management
+5. Package Management
+6. Networking Commands
+7. Process Management
+8. Disk and Storage Management
+9. Shell Scripting
+10. Cron Jobs and Task Automation
 
-Package management
+---
 
-Networking troubleshooting
-
-Process monitoring
-
-Disk management
-
-Bash shell scripting
-
-Task automation using cron jobs
-
-Topics Covered
-
-This repository includes documentation and hands-on practice for the following Linux topics:
-
-Linux Fundamentals
-
-File and Directory Commands
-
-File Permissions and Ownership
-
-User and Group Management
-
-Package Management
-
-Networking Commands
-
-Process Management
-
-Disk and Storage Management
-
-Shell Scripting (Bash)
-
-Cron Jobs and Task Automation
-
-Repository Structure
+## Repository Structure
 Linux-HandsOn
 │
 ├── Linux-Fundamentals
@@ -68,22 +53,30 @@ Linux-HandsOn
 ├── Shell-Scripting
 └── Cron-Jobs
 
-Each folder contains explanations, command examples, and practical exercises.
+Each folder contains commands, explanations, and practical examples related to the topic.
 
-Why Linux is Important for DevOps
+---
 
-Linux is widely used in DevOps because:
+## Why Linux is Important for DevOps
 
-Most cloud servers run on Linux
+Linux plays a critical role in DevOps and Cloud computing because:
 
-Container technologies rely on Linux features
+- Most production servers run on Linux
+- Cloud platforms primarily use Linux environments
+- Containers rely on Linux kernel features
+- Automation and CI/CD pipelines commonly run on Linux systems
 
-Automation and scripting are commonly done in Linux environments
+A strong understanding of Linux helps in managing infrastructure, troubleshooting systems, and automating operational tasks in real-world DevOps environments.
 
-CI/CD pipelines frequently run on Linux-based systems
+---
 
-A strong understanding of Linux helps in managing servers, troubleshooting issues, and automating infrastructure.
+## Learning Progress
 
-Learning Progress
+This repository will be continuously updated as I progress in learning Linux and DevOps tools.
 
-This repository is part of my DevOps learning roadmap and will continue to be updated as I practice more Linux concepts and system administration tasks.
+---
+
+## Connect With Me
+
+GitHub:   
+LinkedIn: linkedin.com/in/shariqua-patel-28464a263
